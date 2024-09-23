@@ -1,7 +1,13 @@
 Repository for Paper: Control Industrial Automation System with Large Language Models
 
 
+
 (under construction)
+
+
+
+[![Watch the video](https://img.youtube.com/vi/CabqN6cKC9U/0.jpg)](https://www.youtube.com/watch?v=CabqN6cKC9U)
+
 
 
 # :movie_camera: Demo Videos:
