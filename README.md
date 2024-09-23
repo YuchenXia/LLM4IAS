@@ -42,7 +42,7 @@ We apply supervised fine-tuning **(SFT)** to assess how training open-source mod
 | **SFT (Unexpected)**                   | 100% \| 5.0 | 97% \| 4.9           | 91% \| 4.7          | * 31% \| 2.8       | 97% \| 5.0        | 9% \| 2.3                   | \*\*N.A.                 |
 
 Notes:
-- Values represent: (accuracy of their generated commands%) \| (averaged reason plausibility 1-5)
+- Values representation: (accuracy of their generated commands%) \| (averaged reason plausibility 1-5)
 - Details of the evaluation data is organized in [evaluation_data.xlsx](evaluation_data.xlsx) 
 - \* We ran out of GPU capacity and used LoRA instead of full fine-tuning for the Qwen2-72B model.
 - \*\* N.A.: Our full-fine-tuning made Mistral-7B model unstable, and it generated unusable echo texts.
