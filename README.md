@@ -1,5 +1,5 @@
-## Control Industrial Automation System Using Large Language Models
-This repository contains detailed information and video demostration accompanying the paper titled "Control Industrial Automation System Using Large Language Models", submitted to IEEE ICRA 2025.
+## Control Industrial Automation System with Large Language Models
+This repository contains detailed information and video demostration accompanying the paper titled "Control Industrial Automation System with Large Language Models", submitted to IEEE ICRA 2025.
 
 ## Potential Use Case Demonstration:
 ![30s_GPT4Automation](https://github.com/YuchenXia/GPT4IndustrialAutomation/assets/39265101/b4b700fa-5262-44a3-9fdd-6eb4930dae23)
