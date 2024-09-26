@@ -5,19 +5,27 @@ A preprint of this paper is available on arXiv.
 > Y. Xia, N. Jazdi, J. Zhang, C. Shah and M. Weyrich, Control Industrial Automation System with Large Language Models, 2024, arXiv preprint.
 
 ## Potential Use Case Demonstration:
+In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutomation), we have demostrated the use case of user interacting with automtaion system with autonomous agents powered by LLMs
+ 
 ![30s_GPT4Automation](https://github.com/YuchenXia/GPT4IndustrialAutomation/assets/39265101/b4b700fa-5262-44a3-9fdd-6eb4930dae23)
 
+
+## The System Design
+In this new work, we present a refined system design with more comprehensive testing and model fine-tuning.
+![system_design](system_design.gif)
+
+
+
 ## Prototypical Implementation in Laboratory Environment
+Full video available: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
+
 ![lab_demo_4_scenes](lab_demo_4_scenes.gif)
 
-Full video: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
 
 
 ## Event-Based Control:
 ![event_based_control](event_based_control.gif)
 
-## The System Design
-![system_design](system_design.gif)
 
 ## Model Fine-Tuning:
 We apply supervised fine-tuning **(SFT)** to assess how training open-source models on the collected dataset improve the LLM’s performance for this specific downstream task. This training has the potential to enable the customization of a general LLM for intelligent control of specialized automation equipment. For GPT-4o, we use OpenAI’s proprietary fine-tuning API to explore the potential capabilities of LLMs, even though the training methods could be different.
