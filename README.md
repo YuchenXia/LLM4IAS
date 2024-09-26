@@ -60,7 +60,6 @@ This research is a continuation of previous works:
 > Y. Xia, M. Shenoy, N. Jazdi and M. Weyrich, **Towards autonomous system: flexible modular production system enhanced with large language model agents**, 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA), Sinaia, Romania, 2023, pp. 1-8, doi: [10.1109/ETFA54631.2023.10275362](https://doi.org/10.1109/ETFA54631.2023.10275362). 
 
 For a similar topic on **LLM agent system** and **simulation model**, one of our papers was acknowledged with the **Best Paper Award** at IEEE ETFA 2024, held on September 10-13, 2024 in Padova, Italy.
-
 A preprint of this paper is available on arXiv.
 > Y. Xia, D. Dittler, N. Jazdi, H. Chen and M. Weyrich, **LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**, 2024, arXiv preprint, https://doi.org/10.48550/arXiv.2405.18092.
 
