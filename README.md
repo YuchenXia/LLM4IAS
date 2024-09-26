@@ -7,7 +7,7 @@ This repository contains detailed information and video demonstration accompanyi
 ## Prototypical Implementation in Laboratory Environment
 ![lab_demo_4_scenes](lab_demo_4_scenes.gif)
 
-Full video: Control Automation System with Large Language Models (2:54) https://youtu.be/fP7isjhrJ44
+Full video: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
 
 
 ## Event-Based Control:
