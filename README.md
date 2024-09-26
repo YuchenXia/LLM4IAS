@@ -58,6 +58,9 @@ Notes:
 - \* We ran out of GPU capacity and used LoRA instead of full fine-tuning for the Qwen2-72B model.
 - \*\* N.A.: Our full-fine-tuning made Mistral-7B model unstable, and it generated unusable echo texts.
 
+#### Insights
+OpenAI’s model and fine-tuning services outperform other models, and the GPT-4o model quickly learns from the samples how to control the automation systems. Other models also demonstrated reasonably good performance. Interestingly, fine-tuned smaller LLMs did not necessarily underperform in this particular use case. However, our contingency LoRA fine-tuning yielded poor results in our experiments and led to a decrease in model performance.
+
 
 ## Technology Readiness Level (TRL)
 ![nasa_trl_meter](nasa_trl_meter.jpg)
