@@ -21,15 +21,15 @@ We apply supervised fine-tuning **(SFT)** to assess how training open-source mod
 
 >**Full fine-tuning (SFT):** Llama-3-70B-Instruct, Llama-3-8B-Instruct, Qwen2-7B-Instruct, Mistral-7Bx8-Instruct-v0.2, Mistral-7B-Instruct-v0.2
 >
-> Epochs: 1; Learning Rate: 1e-5; Batch Size: 16; Training Data Size: 0.2 Million
+> Epochs: 1; Learning Rate: 1e-5; Batch Size: 16; Training Data Size: 0.2 million tokens
 
 >**LoRA fine-tuning (SFT):** Qwen2-72B-Instruct
 >
->LoRA-Rank: 32; LoRA-alpha: 32; Epochs: 1; Learning Rate: 1e-5; Batch Size: 16; Training Token Size: 0.2 Million
+>LoRA-Rank: 32; LoRA-alpha: 32; Epochs: 1; Learning Rate: 1e-5; Batch Size: 16; Training Token Size: 0.2 million tokens
 
 >**OpenAI’s API fine-tuning:** GPT-4o;
 >
->Training Data Size: 0.2 Million
+>Training Data Size: 0.2 million tokens
 
 
 ## Evaluation Results:
@@ -51,3 +51,14 @@ Notes:
 
 ## Technology Readiness Level (TRL)
 ![nasa_trl_meter](nasa_trl_meter.jpg)
+
+## Other related papers
+This research is a continuation of previous works:
+> Y. Xia, M. Shenoy, N. Jazdi and M. Weyrich, **Towards autonomous system: flexible modular production system enhanced with large language model agents**, 2023 IEEE 28th International Conference on Emerging Technologies and Factory Automation (ETFA), Sinaia, Romania, 2023, pp. 1-8, doi: [10.1109/ETFA54631.2023.10275362](https://doi.org/10.1109/ETFA54631.2023.10275362). 
+
+For a similar topic on **LLM agent system** and **simulation model**, one of our papers was acknowledged with the **Best Paper Award** at IEEE ETFA 2024, held on September 10-13, 2024 in Padova, Italy.
+
+A preprint of this paper is available on arXiv.
+> Y. Xia, D. Dittler, N. Jazdi, H. Chen and M. Weyrich, **LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**, 2024, arXiv preprint, https://doi.org/10.48550/arXiv.2405.18092.
+
+Other similar works can be found at Google Scholar: https://scholar.google.de/citations?user=hi1srxkAAAAJ
