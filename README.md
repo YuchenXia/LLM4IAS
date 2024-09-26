@@ -36,6 +36,13 @@ We apply supervised fine-tuning **(SFT)** to assess how training open-source mod
 
 
 ## Evaluation Results:
+#### Evaluation of pre-trained LLM
+We begin by evaluating the original pre-trained models. In automation tasks, 1) some are routine processes where the LLM agent can follow SOP guidelines in agent prompts to operate the automation system, while 2) others require the agent to autonomously respond to unexpected events, for which reactions have not been instructed in agent prompts. We distinguish between these two types of tasks in our evaluation.
+Based on the evaluation results (the first 3 rows), GPT-4 generally outperforms other open-source models in interpreting agent prompts and events to generate control commands, though their performance varies significantly. Each model also exhibits distinct “personalities” in this use case.
+#### Evaluation of post-trained LLM based on created dataset
+Using the collected dataset, we apply supervised fine-tuning **(SFT)** to assess how training open-source models can improve the LLM’s performance for this specific downstream task (as indicated by the last three rows of data). This training has the potential to enable the customization of a general LLM for intelligent control of specialized automation equipment. For GPT-4o, we used OpenAI’s proprietary fine-tuning API to explore the capabilities that LLMs can achieve, even though the training methods may vary.
+
+
 | Evaluation based on 100 test points | GPT-4o | Llama-3-70B-Instruct | Llama-3-8B-Instruct | Qwen2-72B-Instruct | Qwen2-7B-Instruct | Mistral-7Bx8-Instruct-v0.2 | Mistral-7B-Instruct-v0.2 |
 |----------------------------------------|--------|----------------------|---------------------|--------------------|-------------------|-----------------------------|--------------------------|
 | **Pre-trained (all)**                  | 81% \| 4.7 | 75% \| 4.3           | 37% \| 2.8          | 70% \| 4.0         | 65 \| 3.7         | 29% \| 2.4                  | 45% \| 2.9               |
