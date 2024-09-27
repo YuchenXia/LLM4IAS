@@ -6,7 +6,7 @@ A preprint of this paper is available on arXiv.
 
 
 ## Potential Use Case Demonstration:
-In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutomation), we have demostrated the use case of user interacting with automtaion system with autonomous agents powered by LLMs
+In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutomation), we have demostrated the use case of user interacting with an automation system enhanced by autonomous LLM agents through natural language commands.
  
 ![30s_GPT4Automation](https://github.com/YuchenXia/GPT4IndustrialAutomation/assets/39265101/b4b700fa-5262-44a3-9fdd-6eb4930dae23)
 
