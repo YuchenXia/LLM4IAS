@@ -2,7 +2,8 @@
 This repository contains detailed information and video demonstration accompanying the paper titled "Control Industrial Automation System with Large Language Models", submitted to IEEE ICRA 2025.
 
 A preprint of this paper is available on arXiv.
-> Y. Xia, N. Jazdi, J. Zhang, C. Shah and M. Weyrich, Control Industrial Automation System with Large Language Models, 2024, arXiv preprint.
+> Y. Xia, N. Jazdi, J. Zhang, C. Shah and M. Weyrich, Control Industrial Automation System with Large Language Models, 2024, arXiv preprint. https://doi.org/10.48550/arXiv.2409.18009
+
 
 ## Potential Use Case Demonstration:
 In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutomation), we have demostrated the use case of user interacting with automtaion system with autonomous agents powered by LLMs
