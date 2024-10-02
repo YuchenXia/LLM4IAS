@@ -28,6 +28,10 @@ Full video available: Control Automation System with Large Language Models (2:58
 ![event_based_control](event_based_control.gif)
 
 
+## Prompt design:
+![prompt_design](prompt_design.png)
+
+
 ## Model Fine-Tuning:
 We apply supervised fine-tuning **(SFT)** to assess how training open-source models on the collected dataset improve the LLM’s performance for this specific downstream task. This training has the potential to enable the customization of a general LLM for intelligent control of specialized automation equipment. For GPT-4o, we use OpenAI’s proprietary fine-tuning API to explore the potential capabilities of LLMs, even though the training methods could be different.
 
