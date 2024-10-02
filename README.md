@@ -30,6 +30,7 @@ Full video available: Control Automation System with Large Language Models (2:58
 
 ## Prompt design:
 ![prompt_design](prompt_design.png)
+For a simple experiment, readers can paste this prompt example [prompt_example.txt](prompt_example.txt) to an arbitrary LLM to test the output.
 
 
 ## Model Fine-Tuning:
