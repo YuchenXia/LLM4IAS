@@ -12,6 +12,8 @@ In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutoma
 
 https://github.com/user-attachments/assets/74fb9f78-4511-47de-93e5-3228345fa9e3
 
+This full video also available on Youtube: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
+
 ## The System Design
 In this new work, we present a refined system design with more comprehensive testing and model fine-tuning.
 ![system_design](system_design.gif)
@@ -19,7 +21,6 @@ In this new work, we present a refined system design with more comprehensive tes
 
 
 ## Prototypical Implementation in Laboratory Environment
-Full video available: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
 
 ![lab_demo_4_scenes](lab_demo_4_scenes.gif)
 
