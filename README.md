@@ -10,6 +10,7 @@ In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutoma
  
 ![30s_GPT4Automation](https://github.com/YuchenXia/GPT4IndustrialAutomation/assets/39265101/b4b700fa-5262-44a3-9fdd-6eb4930dae23)
 
+https://github.com/user-attachments/assets/74fb9f78-4511-47de-93e5-3228345fa9e3
 
 ## The System Design
 In this new work, we present a refined system design with more comprehensive testing and model fine-tuning.
@@ -21,7 +22,6 @@ In this new work, we present a refined system design with more comprehensive tes
 Full video available: Control Automation System with Large Language Models (2:58) https://youtu.be/GhBoxGfjRIE
 
 ![lab_demo_4_scenes](lab_demo_4_scenes.gif)
-
 
 
 ## Event-Based Control:
@@ -52,7 +52,7 @@ We apply supervised fine-tuning **(SFT)** to assess how training open-source mod
 ## Evaluation Results:
 #### Evaluation of pre-trained LLM
 We begin by evaluating the original pre-trained models. In automation tasks, 1) some are routine processes where the LLM agent can follow SOP guidelines in agent prompts to operate the automation system, while 2) others require the agent to autonomously respond to unexpected events, for which reactions have not been instructed in agent prompts. We distinguish between these two types of tasks in our evaluation.
-Based on the evaluation results (the first 3 rows), GPT-4 generally outperforms other open-source models in interpreting agent prompts and events to generate control commands, though their performance varies significantly. Each model also exhibits distinct “personalities” in this use case.
+Based on the evaluation results (the first 3 rows), GPT-4 generally outperforms other open-source models in interpreting agent prompts and events to generate control commands. Their performance varies significantly, and each model also exhibits distinct “personalities” in this use case.
 #### Evaluation of post-trained LLM based on created dataset
 Using the collected dataset, we apply supervised fine-tuning **(SFT)** to assess how training open-source models can improve the LLM’s performance for this specific downstream task (as indicated by the last three rows of data). This training has the potential to enable the customization of a general LLM for intelligent control of specialized automation equipment. For GPT-4o, we used OpenAI’s proprietary fine-tuning API to explore the capabilities that LLMs can achieve, even though the training methods may vary.
 
