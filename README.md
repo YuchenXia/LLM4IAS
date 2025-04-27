@@ -1,5 +1,5 @@
 ## Control Industrial Automation System with Large Language Models
-This repository contains detailed information and video demonstration accompanying the paper titled "Control Industrial Automation System with Large Language Models", submitted to IEEE ICRA 2025.
+This repository contains detailed information and video demonstration accompanying the paper titled "Control Industrial Automation System with Large Language Models"
 
 A preprint of this paper is available on arXiv.
 > Y. Xia, N. Jazdi, J. Zhang, C. Shah and M. Weyrich, Control Industrial Automation System with Large Language Models, 2024, arXiv preprint. https://doi.org/10.48550/arXiv.2409.18009
