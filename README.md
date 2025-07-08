@@ -88,4 +88,5 @@ For a similar topic on **LLM agent system** and **simulation model**, one of our
 A preprint of this paper is available on arXiv.
 > [Y. Xia](https://yuchenxia.github.io/), D. Dittler, N. Jazdi, H. Chen and M. Weyrich, **LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins**, 2024, arXiv preprint, https://doi.org/10.48550/arXiv.2405.18092.
 
-Other similar works can be found at Google Scholar: https://scholar.google.de/citations?user=hi1srxkAAAAJ
+## About the Author
+<a href="https://yuchenxia.github.io/" target="_blank">Yuchen Xia</a> is a PhD candidate specializing in LLM agents, digital twins, and industrial automation since 2021. You can find more about his work, publications and projects on his <a href="https://yuchenxia.github.io/" target="_blank">personal website</a>.
