@@ -4,6 +4,15 @@ This repository contains detailed information and video demonstration accompanyi
 A preprint of this paper is available on arXiv.
 > [Y. Xia](https://yuchenxia.com), N. Jazdi, J. Zhang, C. Shah and M. Weyrich, Control Industrial Automation System with Large Language Models, 2024, arXiv preprint. https://doi.org/10.48550/arXiv.2409.18009
 
+## Related Dissertation
+This work is part of the doctoral research summarized in the Ph.D. dissertation:
+
+> Y. Xia, **Integrating Large Language Model Agents with Digital Twins for Industrial Autonomous Systems**, Doctoral Dissertation, University of Stuttgart, 2026.
+>
+> which presents a general framework for integrating LLMs, digital twins, and automation systems into industrial autonomous systems, including synthesised theories and multiple industrial case studies.
+>
+> Dissertation (Open-access): https://doi.org/10.18419/opus-18222
+
 
 ## Potential Use Case Demonstration:
 In [one of our previous works](https://github.com/YuchenXia/GPT4IndustrialAutomation), we have demostrated the use case of user interacting with an automation system enhanced by autonomous LLM agents through natural language commands.
